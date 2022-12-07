@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fitclub/static/css/main.eb8b68cf.chunk.css",
-    "main.js": "/fitclub/static/js/main.35813e32.chunk.js",
-    "main.js.map": "/fitclub/static/js/main.35813e32.chunk.js.map",
-    "runtime-main.js": "/fitclub/static/js/runtime-main.99bec895.js",
-    "runtime-main.js.map": "/fitclub/static/js/runtime-main.99bec895.js.map",
-    "static/js/2.6cb6f0b6.chunk.js": "/fitclub/static/js/2.6cb6f0b6.chunk.js",
-    "static/js/2.6cb6f0b6.chunk.js.map": "/fitclub/static/js/2.6cb6f0b6.chunk.js.map",
-    "index.html": "/fitclub/index.html",
-    "static/css/main.eb8b68cf.chunk.css.map": "/fitclub/static/css/main.eb8b68cf.chunk.css.map",
-    "static/js/2.6cb6f0b6.chunk.js.LICENSE.txt": "/fitclub/static/js/2.6cb6f0b6.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/fitclub/static/media/money.9eedd35c.png"
+    "main.css": "/Income-Expense-Tracker-ReactApp/static/css/main.a6abdb52.chunk.css",
+    "main.js": "/Income-Expense-Tracker-ReactApp/static/js/main.35813e32.chunk.js",
+    "main.js.map": "/Income-Expense-Tracker-ReactApp/static/js/main.35813e32.chunk.js.map",
+    "runtime-main.js": "/Income-Expense-Tracker-ReactApp/static/js/runtime-main.72a1d5d0.js",
+    "runtime-main.js.map": "/Income-Expense-Tracker-ReactApp/static/js/runtime-main.72a1d5d0.js.map",
+    "static/js/2.b3047a4e.chunk.js": "/Income-Expense-Tracker-ReactApp/static/js/2.b3047a4e.chunk.js",
+    "static/js/2.b3047a4e.chunk.js.map": "/Income-Expense-Tracker-ReactApp/static/js/2.b3047a4e.chunk.js.map",
+    "index.html": "/Income-Expense-Tracker-ReactApp/index.html",
+    "static/css/main.a6abdb52.chunk.css.map": "/Income-Expense-Tracker-ReactApp/static/css/main.a6abdb52.chunk.css.map",
+    "static/js/2.b3047a4e.chunk.js.LICENSE.txt": "/Income-Expense-Tracker-ReactApp/static/js/2.b3047a4e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Income-Expense-Tracker-ReactApp/static/media/money.9eedd35c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.99bec895.js",
-    "static/js/2.6cb6f0b6.chunk.js",
-    "static/css/main.eb8b68cf.chunk.css",
+    "static/js/runtime-main.72a1d5d0.js",
+    "static/js/2.b3047a4e.chunk.js",
+    "static/css/main.a6abdb52.chunk.css",
     "static/js/main.35813e32.chunk.js"
   ]
 }
